@@ -10,11 +10,7 @@ A simple, intuitive web-based application designed to help you track your daily 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+gi
 ## About the Project
 Managing your expenses is crucial to maintaining financial stability, and this Expense Tracker application simplifies that process. Whether you're keeping tabs on your food costs, transportation fees, utilities, or entertainment expenses, this tool helps you keep everything organized in one place.
 
@@ -44,5 +40,6 @@ There are no special prerequisites for this project. You only need a web browser
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
 2. **Navigate to the project directory**:
-cd expense-tracker
+   ```bash
+   cd expense-tracker
 
